@@ -1,0 +1,14 @@
+# Obsidian workspace/editor state (not part of the knowledge content)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary / logs
+*.log
+tmp/
